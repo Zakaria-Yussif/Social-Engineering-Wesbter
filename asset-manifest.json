@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Social-Engineering-Wesbter/static/css/main.d67797f1.css",
+    "main.js": "/Social-Engineering-Wesbter/static/js/main.b23fa66b.js",
+    "static/js/453.a566cc1f.chunk.js": "/Social-Engineering-Wesbter/static/js/453.a566cc1f.chunk.js",
+    "static/media/announcement.jpg": "/Social-Engineering-Wesbter/static/media/announcement.547d13963c4745462ce9.jpg",
+    "static/media/fa-solid-900.woff2": "/Social-Engineering-Wesbter/static/media/fa-solid-900.8ae0d37556ff1e685de2.woff2",
+    "static/media/fa-brands-400.woff2": "/Social-Engineering-Wesbter/static/media/fa-brands-400.1c5c7716b05754cb4eab.woff2",
+    "static/media/fa-regular-400.woff2": "/Social-Engineering-Wesbter/static/media/fa-regular-400.6f05ca9ab7b5345dbc07.woff2",
+    "static/media/fa-v4compatibility.woff2": "/Social-Engineering-Wesbter/static/media/fa-v4compatibility.e4340c52a50e727c6afa.woff2",
+    "index.html": "/Social-Engineering-Wesbter/index.html",
+    "main.d67797f1.css.map": "/Social-Engineering-Wesbter/static/css/main.d67797f1.css.map",
+    "main.b23fa66b.js.map": "/Social-Engineering-Wesbter/static/js/main.b23fa66b.js.map",
+    "453.a566cc1f.chunk.js.map": "/Social-Engineering-Wesbter/static/js/453.a566cc1f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d67797f1.css",
+    "static/js/main.b23fa66b.js"
+  ]
+}
