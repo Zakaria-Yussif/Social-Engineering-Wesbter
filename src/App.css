@@ -275,3 +275,36 @@ nav{
 }
 
 
+  
+@media screen and (max-width: 768px) {
+  .body-container {
+    grid-template-columns: 10% 15% 13% 12% 13% 12% 12% 12% 7% 4%;
+    gap: 2px;
+    font-size: 12px;
+
+
+  }
+  .nav-content{
+    display: none;
+  }
+  .main-content{
+    display: flex;
+    flex-direction: column;
+  }
+  .sideBar{
+    display: none;
+  }
+  .content_1{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+  }
+  .content_2{
+    display: flex;
+    flex-direction: column;
+  }
+  .content_Data{
+    display: flex;
+    flex-direction: column;
+  }
+}
